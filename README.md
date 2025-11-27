@@ -3,8 +3,6 @@
 Not working:
 - Bluetooth (Not needed)
 - Ethernet (Not needed)
+- (Wifi)[https://github.com/OpenIntelWireless/itlwm/issues/1029] (USB tethering works)
+- (Analog audio)[https://dortania.github.io/OpenCore-Install-Guide/extras/tahoe.html#analog-audio] (Digital audio seems to be working)
 - Hibernation
-
-Installation:
-- [IntelMausi.kext](https://github.com/acidanthera/IntelMausi) or some other kext needs to be installed in order to have working internet during the installation.
-- [HeliPort.app](https://github.com/OpenIntelWireless/HeliPort) is required for getting Wi-Fi working after installation.
